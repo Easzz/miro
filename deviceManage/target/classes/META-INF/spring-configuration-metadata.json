@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "fileupload",
+      "type": "com.example.deviceManage.controller.FileUploadConfig",
+      "sourceType": "com.example.deviceManage.controller.FileUploadConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "fileupload.api-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.deviceManage.controller.FileUploadConfig"
+    },
+    {
+      "name": "fileupload.file-server-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.deviceManage.controller.FileUploadConfig"
+    },
+    {
+      "name": "fileupload.upload-path",
+      "type": "java.lang.String",
+      "description": "上传路径",
+      "sourceType": "com.example.deviceManage.controller.FileUploadConfig"
+    }
+  ],
+  "hints": []
+}

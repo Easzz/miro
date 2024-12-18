@@ -1,0 +1,11 @@
+com\findshen\stock\entity\Cookie.class
+com\findshen\stock\dao\XueQiuDao.class
+com\findshen\stock\StockApplication.class
+com\findshen\stock\dao\DailyDataDao.class
+com\findshen\stock\entity\XueQiuVo.class
+com\findshen\stock\service\XueQiuService.class
+com\findshen\stock\service\impl\DailyDataServiceImpl.class
+com\findshen\stock\service\DailyDataService.class
+com\findshen\stock\config\MyMetaObjectHandler.class
+com\findshen\stock\dao\CookieDao.class
+com\findshen\stock\entity\DailyData.class
