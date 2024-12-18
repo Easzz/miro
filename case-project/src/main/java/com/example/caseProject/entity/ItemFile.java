@@ -32,6 +32,8 @@ public class ItemFile extends Model<ItemFile> {
 	@JsonFormat(pattern = "yyyy-MM-dd", timezone = "GMT+8")
 	private Date gmtCreate;
 
+//	private String
+
 
 	@TableField(value = "gmt_modified", fill = FieldFill.UPDATE)
 	@JsonFormat(pattern = "yyyy-MM-dd", timezone = "GMT+8")
